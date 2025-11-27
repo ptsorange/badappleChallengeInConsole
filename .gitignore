@@ -1,0 +1,24 @@
+# Build directories
+build/
+bin/
+out/
+
+# Executables
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.opensdf
+*.sdf
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
