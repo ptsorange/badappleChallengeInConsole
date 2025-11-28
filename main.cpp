@@ -9,7 +9,7 @@ int main() {
   int spead = 400;
   int size = 4;
   std::string useStanderdSetting;
-  std::string badapplepath="C:\\Users\\tyk12\\app\\badappleChallengeInConsole\\bin\\Debug\\badapple.mp4";
+  std::string badapplepath="./badapple.mp4";
 
   SetConsoleOutputCP(CP_UTF8); // 出力を UTF-8 に
   SetConsoleCP(CP_UTF8);       // 入力を UTF-8 に
